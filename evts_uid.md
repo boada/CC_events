@@ -1,14 +1,50 @@
 | Event ID | Event Name | Date | Players | Team Event |
 | --- | --- | --- | --- | --- |
+| [979](https://conflictchamber.com/?event=979) |Dice Dojo Hermit Roller |Sep 14, 2019 |... |No |
+| [978](https://conflictchamber.com/?event=978) |[2019 I5 Team Tournament](https://www.eventbee.com/v/i5-team-tournament/event?eid=192683713#/tickets) |Oct 12, 2020 |... |Yes |
+| [977](https://conflictchamber.com/?event=977) |BBQ Brawl! |Aug 24, 2019 |... |No |
+| [976](https://conflictchamber.com/?event=976) |[Colorado Store Wars 2019](https://www.facebook.com/events/438170143455193/) |Nov 2, 2019 |... |Yes |
+| [975](https://conflictchamber.com/?event=975) |WHITS 7 |Aug 17, 2019 |... |No |
+| [974](https://conflictchamber.com/?event=974) |test |Dec 13, 2021 |... |No |
+| [973](https://conflictchamber.com/?event=973) |Stupid testors |Dec 13, 2012 |... |No |
+| [972](https://conflictchamber.com/?event=972) |[GRILLMACHINE!](https://www.facebook.com/events/823449814722332/) |Aug 17, 2019 |... |No |
+| [971](https://conflictchamber.com/?event=971) |[GRILLMACHINE!](https://www.facebook.com/events/823449814722332/) |Aug 17, 2019 |... |No |
+| [970](https://conflictchamber.com/?event=970) |Crucible Carnage Qualifier #2 |Aug 17, 2019 |... |No |
+| [969](https://conflictchamber.com/?event=969) |test |Aug 8, 2019 |... |No |
+| [968](https://conflictchamber.com/?event=968) |NorCal Classic 2019- Teams |Aug 9, 2019 |... |Yes |
+| [967](https://conflictchamber.com/?event=967) |August Steamroller |Aug 17, 2019 |... |No |
+| [966](https://conflictchamber.com/?event=966) |August Steamroller |Aug 17, 2019 |... |No |
+| [965](https://conflictchamber.com/?event=965) |[1st Mountain West Scrum](https://www.facebook.com/groups/556062457750476/?ref=bookmarks) |Aug 12, 2019 |14.0 |No |
+| [964](https://conflictchamber.com/?event=964) |[Blood & Oil 2019](https://www.tiebreak.co.uk/bloodandoil-2019) |Sep 8, 2019 |... |No |
+| [963](https://conflictchamber.com/?event=963) |[Japan Open Team Championship 2019](https://jotc315061252.wordpress.com/) |Nov 3, 2019 |... |Yes |
+| [960](https://conflictchamber.com/?event=960) |[Malaysia Master 2019 ](https://www.facebook.com/events/2319614231605474/) |Sep 15, 2019 |... |No |
+| [959](https://conflictchamber.com/?event=959) |NJSOBs Scrum 2019 |Aug 10, 2019 |10.0 |No |
+| [958](https://conflictchamber.com/?event=958) |Journey’s End - 1 list 75pt Steamroller tourney |Aug 17, 2019 |... |No |
+| [957](https://conflictchamber.com/?event=957) |August 2019 KW Scrambler |Aug 24, 2019 |... |No |
+| [956](https://conflictchamber.com/?event=956) |2019 September Scrum: The Road To FJF |Aug 30, 2019 |... |No |
+| [954](https://conflictchamber.com/?event=954) |[NorCal Classic 2019 - Solo Masters](https://www.facebook.com/events/524463394721475/) |Aug 10, 2019 |... |No |
+| [953](https://conflictchamber.com/?event=953) |[NorCal Classic 2019 - Team Event](https://www.facebook.com/events/524463394721475/) |Aug 9, 2019 |40.0 |Yes |
+| [952](https://conflictchamber.com/?event=952) |Summer party 2k19 |Aug 3, 2019 |14.0 |No |
+| [951](https://conflictchamber.com/?event=951) |Harbyse |Aug 18, 2019 |6.0 |No |
+| [950](https://conflictchamber.com/?event=950) |MOAB 2019 |Oct 6, 2019 |... |Yes |
+| [949](https://conflictchamber.com/?event=949) |Pub Night Skirmishes!! |Aug 5, 2019 |... |No |
+| [948](https://conflictchamber.com/?event=948) |Pub Night Skirmishes! |Aug 5, 2019 |... |No |
+| [947](https://conflictchamber.com/?event=947) |[Summer Party Warmachine 2k19](https://www.facebook.com/events/2401497423466250/permalink/2421734451442547/?notif_t=event_mall_comment&notif_id=1564188333162339) |Aug 3, 2019 |... |No |
+| [946](https://conflictchamber.com/?event=946) |[Phoenix Open](https://www.facebook.com/events/336956727245071/) |Aug 31, 2019 |... |No |
+| [944](https://conflictchamber.com/?event=944) |Oblivion Rules Steamroller |Aug 3, 2019 |... |No |
+| [943](https://conflictchamber.com/?event=943) |Riverfront Rumble - Dynamic Update Edition |Jul 27, 2019 |33.0 |No |
+| [942](https://conflictchamber.com/?event=942) |[MoAB - Team Tournament 2019](http://www.motherofallbattles.org/tournaments-register/) |Oct 6, 2019 |... |Yes |
+| [939](https://conflictchamber.com/?event=939) |[Battle at Lund Swedish Masters 75 pts](http://battleatlund.se/) |Aug 16, 2019 |79.0 |No |
+| [938](https://conflictchamber.com/?event=938) |[Oblivion Master's League](http://forums.cogcollective.com/viewtopic.php?f=7&t=3722) |Aug 7, 2019 |30.0 |No |
 | [937](https://conflictchamber.com/?event=937) |[Canberra Election League](https://tabletop.to/cel-round-1) |Jul 23, 2019 |... |No |
 | [935](https://conflictchamber.com/?event=935) |[2019 I5 Team Tournament](https://www.eventbee.com/v/i5-team-tournament/event?eid=192683713) |Oct 12, 2019 |... |Yes |
 | [934](https://conflictchamber.com/?event=934) |[Iron of Fate aka Light Steam](https://vk.com/@the_ordos-turnir-iron-of-fate-aka-light-steam) |Jul 21, 2019 |12.0 |No |
 | [933](https://conflictchamber.com/?event=933) |Pirates' Parlay |Aug 24, 2019 |... |No |
 | [932](https://conflictchamber.com/?event=932) |[NEW TOGIT NEW STEAMROLLER](https://www.facebook.com/events/2221438354833969/) |Jul 20, 2019 |... |No |
 | [931](https://conflictchamber.com/?event=931) |WTC Canada Fundraiser |Sep 7, 2019 |... |Yes |
-| [930](https://conflictchamber.com/?event=930) |[Warmachine at Games Tower 9](https://www.tabletopturniere.de/lu/t3_tournament.php?uri=warmachine-at-games-tower-9-kneel-before-menoth&type=t) |Jul 22, 2019 |... |No |
-| [929](https://conflictchamber.com/?event=929) |[Epic Loot Springfield OWC Qualifier](https://www.facebook.com/events/630022474157088/) |Aug 17, 2019 |... |No |
-| [928](https://conflictchamber.com/?event=928) |[Warmachine & Hordes Vassal League](https://docs.google.com/document/d/1YK2lVwmdGqiFb_SHZ_d6ienpbdUOacBaY8cyCY2K2wM/edit?usp=sharing) |Aug 13, 2019 |... |No |
+| [930](https://conflictchamber.com/?event=930) |[Warmachine at Games Tower 9](https://www.tabletopturniere.de/lu/t3_tournament.php?uri=warmachine-at-games-tower-9-kneel-before-menoth&type=t) |Jul 22, 2019 |6.0 |No |
+| [929](https://conflictchamber.com/?event=929) |[Epic Loot Springfield OWC Qualifier](https://www.facebook.com/events/630022474157088/) |Aug 17, 2019 |26.0 |No |
+| [928](https://conflictchamber.com/?event=928) |[Warmachine & Hordes Vassal League](https://docs.google.com/document/d/1YK2lVwmdGqiFb_SHZ_d6ienpbdUOacBaY8cyCY2K2wM/edit?usp=sharing) |Aug 13, 2019 |34.0 |No |
 | [927](https://conflictchamber.com/?event=927) |[Warmachine & Hordes Vassal League](https://docs.google.com/document/d/1YK2lVwmdGqiFb_SHZ_d6ienpbdUOacBaY8cyCY2K2wM/edit?usp=sharing) |Aug 13, 2019 |... |No |
 | [926](https://conflictchamber.com/?event=926) |[Warmachine & Hordes Vassal League](https://docs.google.com/document/d/1YK2lVwmdGqiFb_SHZ_d6ienpbdUOacBaY8cyCY2K2wM/edit?usp=sharing) |Aug 13, 2019 |... |No |
 | [925](https://conflictchamber.com/?event=925) |Open house chez les farouches |Jul 20, 2019 |... |No |
@@ -28,8 +64,8 @@
 | [910](https://conflictchamber.com/?event=910) |Huzzah Hobbies Steamroller |Jul 6, 2019 |... |No |
 | [909](https://conflictchamber.com/?event=909) |[Northern Colorado Scrum](https://www.facebook.com/events/402583457132176/) |Jul 11, 2019 |... |No |
 | [908](https://conflictchamber.com/?event=908) |Irish Guantlet 2019 |Jul 13, 2019 |31.0 |No |
-| [907](https://conflictchamber.com/?event=907) |[WiTC 2019](atcwmh.com) |Aug 24, 2019 |... |Yes |
-| [906](https://conflictchamber.com/?event=906) |[August Scrum Tournament](https://www.facebook.com/GameKnight/) |... |... |No |
+| [907](https://conflictchamber.com/?event=907) |[WiTC 2019](atcwmh.com) |Aug 24, 2019 |33.0 |Yes |
+| [906](https://conflictchamber.com/?event=906) |[August Scrum Tournament](https://www.facebook.com/GameKnight/) |... |10.0 |No |
 | [905](https://conflictchamber.com/?event=905) |Champions Gaming Scrum |Jun 6, 2019 |... |No |
 | [904](https://conflictchamber.com/?event=904) |[Store Wars June: Flipside Gaming](https://www.facebook.com/events/333653793970363/) |Jun 29, 2019 |... |No |
 | [900](https://conflictchamber.com/?event=900) |New Themes SR |Aug 18, 2019 |... |No |
@@ -37,7 +73,7 @@
 | [898](https://conflictchamber.com/?event=898) |[The Riverfront Rumble](https://www.facebook.com/events/355245321957532/) |Jul 27, 2019 |... |No |
 | [897](https://conflictchamber.com/?event=897) |Test  |Jun 24, 2019 |... |No |
 | [896](https://conflictchamber.com/?event=896) |[2019 Summer Open](https://www.facebook.com/events/2238998999753897/?ti=cl) |Jun 22, 2019 |... |No |
-| [895](https://conflictchamber.com/?event=895) |Millennium Games WMW Qualifier  |Aug 17, 2019 |... |No |
+| [895](https://conflictchamber.com/?event=895) |Millennium Games WMW Qualifier  |Aug 17, 2019 |24.0 |No |
 | [894](https://conflictchamber.com/?event=894) |[Kyiv Summer Clash](http://kyiv-legacy.org.ua/forum/index.php?/topic/10314-%D1%82%D1%83%D1%80%D0%BD%D0%B8%D1%80-kiev-clash-warmachine-hordes-10-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F/) |Jul 14, 2019 |12.0 |Yes |
 | [893](https://conflictchamber.com/?event=893) |[Summer Slam 75 Pt. Steamroller Event](https://www.facebook.com/events/1137922709749284/) |Jun 22, 2019 |8.0 |No |
 | [892](https://conflictchamber.com/?event=892) |[Redcaps June 2019 CID SR](https://m.facebook.com/events/890743654611713/?acontext=%7B%22ref%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_reminder%22%2C%22action_history%22%3A%22null%22%7D&notif_t=plan_reminder&notif_id=1560607171489925&ref=m_notif) |Jun 15, 2019 |5.0 |No |
@@ -46,7 +82,7 @@
 | [889](https://conflictchamber.com/?event=889) |[Dice Dojo June Steamroller - Infernals?](https://www.chicagolandgames.com/) |Jul 13, 2019 |... |No |
 | [888](https://conflictchamber.com/?event=888) |[Shae vs Kallus rumble](https://www.facebook.com/events/630763164072491/?ti=cl) |Jun 23, 2019 |... |No |
 | [887](https://conflictchamber.com/?event=887) |Shea vs Kallus steamroller |Jun 23, 2019 |... |No |
-| [886](https://conflictchamber.com/?event=886) |[Giga-Con 2019: Year of the Hog](https://www.facebook.com/events/629989760765786/) |Jul 19, 2019 |... |No |
+| [886](https://conflictchamber.com/?event=886) |[Giga-Con 2019: Year of the Hog](https://www.facebook.com/events/629989760765786/) |Jul 19, 2019 |46.0 |No |
 | [884](https://conflictchamber.com/?event=884) |[Taiwan Open 2019](https://www.facebook.com/events/579611755897244/) |Dec 22, 2019 |... |No |
 | [883](https://conflictchamber.com/?event=883) |Sweet Sweaty Summer Steamroller |Jun 15, 2019 |... |No |
 | [879](https://conflictchamber.com/?event=879) |test |Dec 2, 2019 |... |No |
@@ -54,7 +90,7 @@
 | [877](https://conflictchamber.com/?event=877) |[OWC Qualifier @ The Game Haven](https://www.facebook.com/events/2335734216714689/?active_tab=discussion) |Jun 15, 2019 |18.0 |No |
 | [876](https://conflictchamber.com/?event=876) |[Summer Smash 2019](https://www.facebook.com/events/594816380985762/) |Jun 15, 2019 |8.0 |No |
 | [875](https://conflictchamber.com/?event=875) |[Rocky Mountain Rumble 2019](https://www.facebook.com/events/377285992820331/) |Jun 29, 2019 |... |No |
-| [874](https://conflictchamber.com/?event=874) |[Mississippi Delta Team Tournament](https://www.facebook.com/events/2451199251767976/) |Aug 3, 2019 |... |Yes |
+| [874](https://conflictchamber.com/?event=874) |[Mississippi Delta Team Tournament](https://www.facebook.com/events/2451199251767976/) |Aug 3, 2019 |12.0 |Yes |
 | [873](https://conflictchamber.com/?event=873) |[Phoenix Open 2019](https://www.facebook.com/events/336956727245071/) |Aug 31, 2019 |... |No |
 | [872](https://conflictchamber.com/?event=872) |Test Event |Jun 22, 2019 |... |Yes |
 | [871](https://conflictchamber.com/?event=871) |[Summer Feast of WARMACHINE & HORDES](https://vk.com/event179118075) |Jun 9, 2019 |24.0 |Yes |
@@ -126,11 +162,11 @@
 | [795](https://conflictchamber.com/?event=795) |[Boundless Charge 2019, Osaka](http://boundlesscharge.com/) |Jul 14, 2019 |20.0 |No |
 | [793](https://conflictchamber.com/?event=793) |[APRIL FUEL DAZE 3](https://www.facebook.com/events/248287722767421/) |Apr 14, 2019 |24.0 |No |
 | [792](https://conflictchamber.com/?event=792) |Steamroller marzo |Mar 30, 2019 |... |No |
-| [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |... |No |
 | [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |15.0 |No |
+| [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |... |No |
 | [786](https://conflictchamber.com/?event=786) |Qualifier WeekEnd WTC France |Mar 24, 2019 |23.0 |No |
-| [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |6.0 |No |
 | [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |... |No |
+| [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |6.0 |No |
 | [783](https://conflictchamber.com/?event=783) |[MIC 2019](https://alealleida.wordpress.com/2019/03/19/bases-mic-2019) |Mar 30, 2019 |11.0 |No |
 | [782](https://conflictchamber.com/?event=782) |2019 KingdomCon Masters Heat 2 |Apr 13, 2019 |... |No |
 | [781](https://conflictchamber.com/?event=781) |2019 KingdomCon Masters Heat One |Apr 13, 2019 |... |No |
@@ -246,8 +282,8 @@
 | [663](https://conflictchamber.com/?event=663) |January Dojo Champions Steamroller |Jan 12, 2019 |... |No |
 | [662](https://conflictchamber.com/?event=662) |CVW Champions |Mar 2, 2019 |... |No |
 | [661](https://conflictchamber.com/?event=661) |[Pre OTC Shark Tank](https://www.facebook.com/events/346069535962721/) |Mar 1, 2019 |33.0 |No |
-| [659](https://conflictchamber.com/?event=659) |[Corridor Warmahordes #7](https://www.facebook.com/events/1924786844306040/) |Jan 12, 2019 |4.0 |No |
 | [659](https://conflictchamber.com/?event=659) |[Corridor Warmahordes #7](https://www.facebook.com/events/1924786844306040/) |Jan 12, 2019 |... |No |
+| [659](https://conflictchamber.com/?event=659) |[Corridor Warmahordes #7](https://www.facebook.com/events/1924786844306040/) |Jan 12, 2019 |4.0 |No |
 | [658](https://conflictchamber.com/?event=658) |osaka |Jan 8, 2019 |... |No |
 | [657](https://conflictchamber.com/?event=657) |[Saguenay World Team Championship II](https://www.facebook.com/events/329456647606895/) |Jan 12, 2019 |24.0 |Yes |
 | [656](https://conflictchamber.com/?event=656) |[THE LAST MINUTE MASSACRE](https://www.facebook.com/events/414513612620381/) |Jan 5, 2019 |... |No |
