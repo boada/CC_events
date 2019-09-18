@@ -1,5 +1,34 @@
 | Event ID | Event Name | Date | Players | Team Event |
 | --- | --- | --- | --- | --- |
+| [1034](https://conflictchamber.com/?event=1034) |CVW Champions |Oct 26, 2019 |... |No |
+| [1033](https://conflictchamber.com/?event=1033) |[Battleground Cafe Store Championship](https://www.facebook.com/pg/TheBattlegroundCafe/events/?ref=page_internal) |Oct 5, 2019 |... |No |
+| [1032](https://conflictchamber.com/?event=1032) |The Scrum for Honor |Oct 4, 2019 |... |No |
+| [1028](https://conflictchamber.com/?event=1028) |Captaincon 2020 Masters |Feb 9, 2020 |... |No |
+| [1027](https://conflictchamber.com/?event=1027) |Captaincon 2020 New England Team Tournament |Feb 8, 2020 |... |Yes |
+| [1026](https://conflictchamber.com/?event=1026) |Captaincon 2020 Champions |Feb 7, 2020 |... |No |
+| [1025](https://conflictchamber.com/?event=1025) |Captaincon 2020 Standard Issue Flight 4 |Feb 7, 2020 |... |No |
+| [1024](https://conflictchamber.com/?event=1024) |Captaincon 2020 Standard Issue Flight 3 |Feb 7, 2020 |... |No |
+| [1023](https://conflictchamber.com/?event=1023) |Captaincon 2020 Standard Issue Flight 2 |Feb 7, 2020 |... |No |
+| [1022](https://conflictchamber.com/?event=1022) |Captaincon 2020 Standard Issue Flight 1 |Feb 7, 2020 |... |No |
+| [1021](https://conflictchamber.com/?event=1021) |[Lone Star Game Expo](www.lonestargameexpo.com) |Sep 8, 2019 |8.0 |No |
+| [1020](https://conflictchamber.com/?event=1020) |China Team Championship 2019  |Nov 17, 2019 |... |Yes |
+| [1019](https://conflictchamber.com/?event=1019) |[5th Annual Dallas Team Championship](https://www.facebook.com/events/456299911761822/) |Sep 21, 2019 |... |Yes |
+| [1018](https://conflictchamber.com/?event=1018) |[IF Barcelona. Parejas Inesperadas2. Aleatory 3vs3 Team Event.](https://www.facebook.com/events/2342553415864320/) |Sep 15, 2019 |... |No |
+| [1017](https://conflictchamber.com/?event=1017) |Fall Brawl |Sep 14, 2019 |1.0 |No |
+| [1016](https://conflictchamber.com/?event=1016) |[Parejas inesperadas 2. Aleatory 3vs3 event. ](https://www.facebook.com/events/2342553415864320/) |Sep 17, 2019 |... |No |
+| [1015](https://conflictchamber.com/?event=1015) |Ardkore Warmachine Masters 2019 |Sep 15, 2019 |... |No |
+| [1014](https://conflictchamber.com/?event=1014) |[Michigan GT Championship 2019](http://michigangt.com/node/43) |Oct 12, 2019 |... |No |
+| [1013](https://conflictchamber.com/?event=1013) |[The Bokur Brawl 2019 - Team Event](www.thebokurbrawl.com) |Oct 5, 2019 |100.0 |Yes |
+| [1012](https://conflictchamber.com/?event=1012) |[The Bokur Brawl 2019 - Team Event](www.thebokurbrawl.com) |Oct 5, 2019 |... |Yes |
+| [1011](https://conflictchamber.com/?event=1011) |[Malaysia Master 2019 Ardkore](https://www.facebook.com/events/2319614231605474/) |Sep 29, 2019 |21.0 |No |
+| [1010](https://conflictchamber.com/?event=1010) |Tournament Murmansk (Simple) |Sep 15, 2019 |8.0 |No |
+| [1009](https://conflictchamber.com/?event=1009) |Simple Murmansk Tournament |Sep 16, 2019 |... |No |
+| [1008](https://conflictchamber.com/?event=1008) |[The Road To WAR!!! 75pt. Steamroller](https://www.facebook.com/events/400202300699424/) |Sep 21, 2019 |... |No |
+| [1006](https://conflictchamber.com/?event=1006) |[WARMACHINE Weekend Homecoming 2019](https://www.facebook.com/events/567201147142825/) |Sep 21, 2019 |... |No |
+| [1005](https://conflictchamber.com/?event=1005) |[WTC Fundraiser](https://m.facebook.com/events/643833279418566?ref=m_notif&notif_t=feedback_reaction_generic) |Sep 7, 2019 |40.0 |Yes |
+| [1004](https://conflictchamber.com/?event=1004) |Game Universe September Steamroller |Sep 21, 2019 |... |No |
+| [1003](https://conflictchamber.com/?event=1003) |[Saturday Breakfast Machine](http://www.novaopen.com/warmachine) |Aug 31, 2019 |... |No |
+| [1001](https://conflictchamber.com/?event=1001) |[Nova 2019 Masters](http://www.novaopen.com/warmachine) |... |... |No |
 | [1000](https://conflictchamber.com/?event=1000) |[Malmö Wargaming Weekend 4](https://malmofigurspel.se/mww/) |Oct 27, 2019 |... |No |
 | [999](https://conflictchamber.com/?event=999) |[Nova Open Masters Finals](http://www.novaopen.com/warmachine) |... |16.0 |No |
 | [998](https://conflictchamber.com/?event=998) |[Nova Open Speedmachine](http://www.novaopen.com/warmachine) |... |... |No |
@@ -181,8 +210,8 @@
 | [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |... |No |
 | [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |15.0 |No |
 | [786](https://conflictchamber.com/?event=786) |Qualifier WeekEnd WTC France |Mar 24, 2019 |23.0 |No |
-| [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |6.0 |No |
 | [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |... |No |
+| [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |6.0 |No |
 | [783](https://conflictchamber.com/?event=783) |[MIC 2019](https://alealleida.wordpress.com/2019/03/19/bases-mic-2019) |Mar 30, 2019 |11.0 |No |
 | [782](https://conflictchamber.com/?event=782) |2019 KingdomCon Masters Heat 2 |Apr 13, 2019 |... |No |
 | [781](https://conflictchamber.com/?event=781) |2019 KingdomCon Masters Heat One |Apr 13, 2019 |... |No |
