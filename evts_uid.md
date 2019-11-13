@@ -1,12 +1,21 @@
 | Event ID | Event Name | Date | Players | Team Event |
 | --- | --- | --- | --- | --- |
+| [1089](https://conflictchamber.com/?event=1089) |[Primal Arc III](http://warmachina.com.pl/viewtopic.php?f=12&t=7954) |Mar 29, 2020 |... |No |
+| [1086](https://conflictchamber.com/?event=1086) |[Aroscon 2019 Danish Masters](https://aroscon.dk/da-dk/events/warmachine-and-hordes) |Nov 23, 2019 |... |No |
+| [1085](https://conflictchamber.com/?event=1085) |[Aroscon 2019 Danish Masters](https://aroscon.dk/da-dk/events/warmachine-and-hordes/) |Nov 24, 2019 |... |No |
+| [1084](https://conflictchamber.com/?event=1084) |[Warfaire Weekend 2019](www.warfaireweekend.com) |Nov 10, 2019 |32.0 |No |
+| [1083](https://conflictchamber.com/?event=1083) |[Melee at Shiloh WFW Qualifying Event](https://www.shilohslaughter.com/) |Jan 25, 2020 |... |No |
+| [1082](https://conflictchamber.com/?event=1082) |[Mox Boarding House December Monthly](https://app.getoccasion.com/p/n/ngrz_bkg?source=agenda_calendar#) |Dec 7, 2019 |... |No |
+| [1081](https://conflictchamber.com/?event=1081) |[Campus Cards & Games 2 Winter 25 Point Scrum](https://www.facebook.com/groups/1380834845346965/) |Nov 13, 2019 |... |No |
+| [1080](https://conflictchamber.com/?event=1080) |1st annual Atlantic Canadian Team Tournament  |Nov 23, 2019 |... |Yes |
+| [1079](https://conflictchamber.com/?event=1079) |Monthly Brawl - The Fall |Dec 2, 2019 |... |No |
 | [1078](https://conflictchamber.com/?event=1078) |Game Preserve Greenwood - Steamroller |Nov 16, 2019 |... |No |
 | [1074](https://conflictchamber.com/?event=1074) |[BTC 2020 Wein is in the House](https://www.tabletopturniere.de/t3_tournament.php?uri=btc-wein-is-i-the-house&type=t) |Jan 26, 2020 |... |Yes |
 | [1073](https://conflictchamber.com/?event=1073) |WNY StoreWars Finale |Oct 27, 2019 |... |No |
 | [1072](https://conflictchamber.com/?event=1072) |[Warfare at Sinclair & WHITS Finals](https://www.facebook.com/events/709459546235347/) |Nov 2, 2019 |... |No |
 | [1071](https://conflictchamber.com/?event=1071) |75pt Steamroller |Oct 26, 2019 |... |No |
 | [1070](https://conflictchamber.com/?event=1070) |[Winter Yeti Bowl II](https://www.facebook.com/events/402750683745639/?active_tab=about) |Jan 17, 2020 |... |Yes |
-| [1069](https://conflictchamber.com/?event=1069) |Autumn 2019 Ukrainian Solo Open |Nov 17, 2019 |... |No |
+| [1069](https://conflictchamber.com/?event=1069) |Autumn 2019 Ukrainian Solo Open |Nov 17, 2019 |10.0 |No |
 | [1067](https://conflictchamber.com/?event=1067) |[Warmachine at Games Tower 10](https://www.tabletopturniere.de/t3_tournament.php?tid=25249) |Oct 28, 2019 |10.0 |No |
 | [1066](https://conflictchamber.com/?event=1066) |[SnootyCon 2: Lettuce Boogaloo](https://www.facebook.com/events/427344288215121/) |... |... |No |
 | [1065](https://conflictchamber.com/?event=1065) |[Kanto Cup 2020](https://greentokage.blogspot.com/) |Jan 12, 2020 |... |No |
@@ -22,7 +31,7 @@
 | [1055](https://conflictchamber.com/?event=1055) |[Gnomicon PreWTC 5vs5](https://tournykeeper.com/#/tournament/details/901) |May 31, 2020 |... |Yes |
 | [1054](https://conflictchamber.com/?event=1054) |Super Sweet Steamroller Nov 3rd |Nov 3, 2019 |... |No |
 | [1053](https://conflictchamber.com/?event=1053) |[Mox Boarding House November Tournament](https://app.getoccasion.com/p/n/ngrz_bkg?source=agenda_calendar) |Nov 2, 2019 |... |No |
-| [1052](https://conflictchamber.com/?event=1052) |Out of the box Tues Night Brawl November 2019! |Nov 4, 2019 |... |No |
+| [1052](https://conflictchamber.com/?event=1052) |Out of the box Tues Night Brawl November 2019! |Nov 4, 2019 |3.0 |No |
 | [1051](https://conflictchamber.com/?event=1051) |Pub Night Brawl November 2019! |Nov 4, 2019 |... |No |
 | [1050](https://conflictchamber.com/?event=1050) |[Michigan Cup 2019](MichiganGT.com) |Oct 13, 2019 |... |Yes |
 | [1049](https://conflictchamber.com/?event=1049) |[October beerdraft](https://vk.com/club_d101) |Oct 4, 2019 |8.0 |No |
@@ -51,7 +60,7 @@
 | [1023](https://conflictchamber.com/?event=1023) |Captaincon 2020 Standard Issue Flight 2 |Feb 7, 2020 |... |No |
 | [1022](https://conflictchamber.com/?event=1022) |Captaincon 2020 Standard Issue Flight 1 |Feb 7, 2020 |... |No |
 | [1021](https://conflictchamber.com/?event=1021) |[Lone Star Game Expo](www.lonestargameexpo.com) |Sep 8, 2019 |8.0 |No |
-| [1020](https://conflictchamber.com/?event=1020) |China Team Championship 2019  |Nov 17, 2019 |... |Yes |
+| [1020](https://conflictchamber.com/?event=1020) |China Team Championship 2019  |Nov 17, 2019 |15.0 |Yes |
 | [1019](https://conflictchamber.com/?event=1019) |[5th Annual Dallas Team Championship](https://www.facebook.com/events/456299911761822/) |Sep 21, 2019 |... |Yes |
 | [1018](https://conflictchamber.com/?event=1018) |[IF Barcelona. Parejas Inesperadas2. Aleatory 3vs3 Team Event.](https://www.facebook.com/events/2342553415864320/) |Sep 15, 2019 |... |No |
 | [1017](https://conflictchamber.com/?event=1017) |Fall Brawl |Sep 14, 2019 |1.0 |No |
@@ -247,11 +256,11 @@
 | [795](https://conflictchamber.com/?event=795) |[Boundless Charge 2019, Osaka](http://boundlesscharge.com/) |Jul 14, 2019 |20.0 |No |
 | [793](https://conflictchamber.com/?event=793) |[APRIL FUEL DAZE 3](https://www.facebook.com/events/248287722767421/) |Apr 14, 2019 |24.0 |No |
 | [792](https://conflictchamber.com/?event=792) |Steamroller marzo |Mar 30, 2019 |... |No |
-| [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |... |No |
 | [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |15.0 |No |
+| [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |... |No |
 | [786](https://conflictchamber.com/?event=786) |Qualifier WeekEnd WTC France |Mar 24, 2019 |23.0 |No |
-| [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |6.0 |No |
 | [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |... |No |
+| [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |6.0 |No |
 | [783](https://conflictchamber.com/?event=783) |[MIC 2019](https://alealleida.wordpress.com/2019/03/19/bases-mic-2019) |Mar 30, 2019 |11.0 |No |
 | [782](https://conflictchamber.com/?event=782) |2019 KingdomCon Masters Heat 2 |Apr 13, 2019 |... |No |
 | [781](https://conflictchamber.com/?event=781) |2019 KingdomCon Masters Heat One |Apr 13, 2019 |... |No |
