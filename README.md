@@ -1,6 +1,6 @@
 # List of all public events from [Conflict Chamber](http://conflictchamber.com)
 
-## Last Updated: November 13, 2019
+## Last Updated: January 2nd, 2020
 
  I am planning to update the lists about once a month.
 
