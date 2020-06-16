@@ -1,14 +1,25 @@
 | Event ID | Event Name | Date | Players | Team Event |
 | --- | --- | --- | --- | --- |
+| [1250](https://conflictchamber.com/?event=1250) |SOVA June Scrum |Jun 8, 2020 |4.0 |No |
+| [1249](https://conflictchamber.com/?event=1249) |[Ontario Warmachine Event on WarTable ](https://www.facebook.com/events/843515002810552) |May 30, 2020 |30.0 |No |
+| [1248](https://conflictchamber.com/?event=1248) |Covid Scrum 1.0 |Jun 2, 2020 |13.0 |No |
+| [1247](https://conflictchamber.com/?event=1247) |Svenska skolavslutningsligan |Jun 2, 2020 |14.0 |No |
+| [1246](https://conflictchamber.com/?event=1246) |[Italian Warmachine Online Ep.1](https://www.facebook.com/events/1172135176472010/) |May 30, 2020 |14.0 |No |
+| [1245](https://conflictchamber.com/?event=1245) |[Italian Warmachine Online Ep. 1](https://www.facebook.com/events/1172135176472010/) |May 30, 2020 |... |No |
+| [1244](https://conflictchamber.com/?event=1244) |TBS Tuesday Night Tourney |Jun 2, 2020 |5.0 |No |
+| [1243](https://conflictchamber.com/?event=1243) |Master Your Shit |May 27, 2020 |6.0 |No |
+| [1242](https://conflictchamber.com/?event=1242) |[Impromtu FL Meta Wartable SR](https://www.tiebreak.co.uk/impromtu-fl-meta-wartable-sr/feed) |May 24, 2020 |4.0 |No |
+| [1241](https://conflictchamber.com/?event=1241) |Wartable quebec |May 30, 2020 |16.0 |No |
+| [1240](https://conflictchamber.com/?event=1240) |NorCal & Friends Vass/WT-roller S3 |May 24, 2020 |32.0 |No |
 | [1239](https://conflictchamber.com/?event=1239) |Virtually Welsh |Jul 2, 2020 |... |No |
-| [1238](https://conflictchamber.com/?event=1238) |Warmabros Scrum |... |... |No |
+| [1238](https://conflictchamber.com/?event=1238) |Warmabros Scrum |... |8.0 |No |
 | [1237](https://conflictchamber.com/?event=1237) |Dream of Welsh Masters |May 15, 2020 |... |No |
 | [1236](https://conflictchamber.com/?event=1236) |BEAR DOG Scrum |May 16, 2020 |56.0 |No |
 | [1235](https://conflictchamber.com/?event=1235) |[WMH OZ TOURNEY 2](https://www.facebook.com/groups/2916331891787676) |May 10, 2020 |18.0 |No |
 | [1234](https://conflictchamber.com/?event=1234) |Vancouver Vassal Steamroller part 2 |Apr 29, 2021 |... |No |
 | [1233](https://conflictchamber.com/?event=1233) |NorCal Vassal League Season 2 |May 3, 2020 |12.0 |No |
 | [1232](https://conflictchamber.com/?event=1232) |BC Vassal SR 2 |Apr 29, 2020 |... |No |
-| [1231](https://conflictchamber.com/?event=1231) |Fishcord 3 Man Team Event Trial |May 30, 2020 |... |Yes |
+| [1231](https://conflictchamber.com/?event=1231) |Fishcord 3 Man Team Event Trial |May 30, 2020 |24.0 |Yes |
 | [1230](https://conflictchamber.com/?event=1230) |Warmachine Vassal Fishcord 09/05/2020 |May 9, 2020 |17.0 |No |
 | [1229](https://conflictchamber.com/?event=1229) |Vancouver Vassal SR 2 |Apr 29, 2020 |12.0 |No |
 | [1228](https://conflictchamber.com/?event=1228) |All Iowa warmahordes vassal throwdown |May 9, 2020 |4.0 |No |
@@ -28,7 +39,7 @@
 | [1214](https://conflictchamber.com/?event=1214) |Game Universe March Steamroller |Mar 28, 2020 |... |No |
 | [1213](https://conflictchamber.com/?event=1213) |Hampton Roads April Scrum |Apr 6, 2020 |... |No |
 | [1212](https://conflictchamber.com/?event=1212) |[Warmahordes Coffee Cup](https://www.facebook.com/events/1018820025177575/) |May 2, 2020 |... |Yes |
-| [1209](https://conflictchamber.com/?event=1209) |[KAZUÁR53](http://warmahordes.hu/v/K_S05T05/) |Mar 21, 2020 |... |No |
+| [1209](https://conflictchamber.com/?event=1209) |[KAZUÁR53](http://warmahordes.hu/v/K_S05T05/) |Mar 21, 2020 |8.0 |No |
 | [1208](https://conflictchamber.com/?event=1208) |[Pre-SOO Podz Brawl](https://www.facebook.com/events/605325990057649/permalink/605326980057550/?notif_t=event_mall_comment&notif_id=1583860435406155) |Apr 4, 2020 |... |No |
 | [1207](https://conflictchamber.com/?event=1207) |WarmaHordes 50pt League - Strangeways Games |Mar 22, 2020 |... |No |
 | [1206](https://conflictchamber.com/?event=1206) |[Pre-Adepticon Dojo Roller](https://www.facebook.com/events/478064926435058/) |Mar 14, 2020 |... |No |
@@ -390,8 +401,8 @@
 | [795](https://conflictchamber.com/?event=795) |[Boundless Charge 2019, Osaka](http://boundlesscharge.com/) |Jul 14, 2019 |20.0 |No |
 | [793](https://conflictchamber.com/?event=793) |[APRIL FUEL DAZE 3](https://www.facebook.com/events/248287722767421/) |Apr 14, 2019 |24.0 |No |
 | [792](https://conflictchamber.com/?event=792) |Steamroller marzo |Mar 30, 2019 |... |No |
-| [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |... |No |
 | [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |15.0 |No |
+| [789](https://conflictchamber.com/?event=789) |WHITS Qualifier #4 |May 11, 2019 |... |No |
 | [786](https://conflictchamber.com/?event=786) |Qualifier WeekEnd WTC France |Mar 24, 2019 |23.0 |No |
 | [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |6.0 |No |
 | [784](https://conflictchamber.com/?event=784) |BC2019 Warm Up Tournament |May 19, 2019 |... |No |
@@ -497,8 +508,8 @@
 | [676](https://conflictchamber.com/?event=676) |[Fuck Tharn Podz Champions](https://www.facebook.com/events/1222367034581673/?active_tab=discussion) |Feb 17, 2019 |... |No |
 | [676](https://conflictchamber.com/?event=676) |[Fuck Tharn Podz Champions](https://www.facebook.com/events/1222367034581673/?active_tab=discussion) |Feb 17, 2019 |... |No |
 | [675](https://conflictchamber.com/?event=675) |[Captaincon 2019 - New England Team Tournament](https://tabletop.events/conventions/captaincon-2019/submit-events/494B93E0-C00B-11E8-9A23-EEB285DB76FB/edit) |Feb 9, 2019 |87.0 |Yes |
-| [672](https://conflictchamber.com/?event=672) |Steamroller Winter 2019 Vilnius |Feb 25, 2019 |4.0 |No |
 | [672](https://conflictchamber.com/?event=672) |Steamroller Winter 2019 Vilnius |Feb 25, 2019 |... |No |
+| [672](https://conflictchamber.com/?event=672) |Steamroller Winter 2019 Vilnius |Feb 25, 2019 |4.0 |No |
 | [671](https://conflictchamber.com/?event=671) |[Battle Zone Ursa](https://battlezoneursa.com) |Sep 7, 2019 |... |No |
 | [670](https://conflictchamber.com/?event=670) |[February Steamroller](https://www.facebook.com/events/925956770932669/) |Feb 2, 2019 |7.0 |No |
 | [668](https://conflictchamber.com/?event=668) |[PDX Open](https://www.facebook.com/PdxOpen) |Mar 2, 2019 |37.0 |No |
