@@ -1,9 +1,36 @@
 | Event ID | Event Name | Date | Players | Team Event |
 | --- | --- | --- | --- | --- |
-| [1275](https://conflictchamber.com/?event=1275) |[CR WMH Online #2](https://www.facebook.com/events/205654807450673/) |Jul 25, 2020 |... |No |
-| [1274](https://conflictchamber.com/?event=1274) |[CR WMH Online #1](https://www.facebook.com/events/586557945394233) |Jul 18, 2020 |... |No |
-| [1273](https://conflictchamber.com/?event=1273) |[KAZUÁR55](http://warmahordes.hu/v/K_S05T07/) |Jul 25, 2020 |... |No |
-| [1272](https://conflictchamber.com/?event=1272) |1 era Liga Transoceánica Hispanoparlantes |Jul 22, 2020 |... |No |
+| [1302](https://conflictchamber.com/?event=1302) |PDX Open 2020: Wartable Edition |Sep 18, 2020 |... |No |
+| [1301](https://conflictchamber.com/?event=1301) |Spellstorm Brawlmachine Fun |Aug 20, 2020 |... |No |
+| [1300](https://conflictchamber.com/?event=1300) |Brawlmachine Beta Brawl |Aug 24, 2020 |... |No |
+| [1299](https://conflictchamber.com/?event=1299) |Montana Online Steamroller |Sep 19, 2020 |... |No |
+| [1298](https://conflictchamber.com/?event=1298) |[Brawlmachine League 1](https://www.facebook.com/events/301061330971538/) |Aug 28, 2020 |... |No |
+| [1297](https://conflictchamber.com/?event=1297) |Liga Wartable Nac&Pop |Aug 28, 2020 |11.0 |No |
+| [1296](https://conflictchamber.com/?event=1296) |Fishcord Steamroller |Aug 30, 2020 |... |No |
+| [1295](https://conflictchamber.com/?event=1295) |Taiwan Open 2020 |Jan 23, 2021 |... |No |
+| [1294](https://conflictchamber.com/?event=1294) |Western Canada Online SR 5 |Aug 12, 2020 |... |No |
+| [1293](https://conflictchamber.com/?event=1293) |[The VTC](https://knightsmachine.com/blogs/news/vtc-announcement) |Sep 14, 2020 |... |Yes |
+| [1292](https://conflictchamber.com/?event=1292) |Ontario WarTable Ladder League 2nd Half |Aug 8, 2020 |8.0 |No |
+| [1291](https://conflictchamber.com/?event=1291) |Canada WarTable Tournament |Aug 5, 2020 |26.0 |No |
+| [1290](https://conflictchamber.com/?event=1290) |swe-brawlmachine |Aug 4, 2020 |10.0 |No |
+| [1289](https://conflictchamber.com/?event=1289) |Brawlmachineturnering |Aug 4, 2020 |... |No |
+| [1288](https://conflictchamber.com/?event=1288) |[KAZUÁR56](http://warmahordes.hu/v/K_S05T08/) |Sep 26, 2020 |... |No |
+| [1287](https://conflictchamber.com/?event=1287) |Covid Scrum 3.0 |Aug 3, 2020 |12.0 |No |
+| [1286](https://conflictchamber.com/?event=1286) |CR WMH Online SR 3 |Aug 15, 2020 |12.0 |No |
+| [1285](https://conflictchamber.com/?event=1285) |AUS VASSAL LEAGUE |... |16.0 |No |
+| [1284](https://conflictchamber.com/?event=1284) |Aus vassal tournament- July/August  |Jul 30, 2020 |... |No |
+| [1283](https://conflictchamber.com/?event=1283) |Hillsboro Underground Brawlmachine Beta Extravaganza (Done Right) |Aug 8, 2020 |... |No |
+| [1282](https://conflictchamber.com/?event=1282) |Hillsboro Underground Brawlmachine Beta Extravaganza |Aug 8, 2020 |... |No |
+| [1281](https://conflictchamber.com/?event=1281) |Grindr |Jul 27, 2020 |8.0 |No |
+| [1280](https://conflictchamber.com/?event=1280) |NorCal and Friends Virtualroller Season5 |Jul 26, 2020 |22.0 |No |
+| [1279](https://conflictchamber.com/?event=1279) |[Wisconsin Brawlmachine 1](https://drive.google.com/file/d/1OD1iyDbPhMhjm7j3sVd8t8LWLt7sYOGg/view?usp=sharing) |Jul 25, 2020 |9.0 |No |
+| [1278](https://conflictchamber.com/?event=1278) |SWORM Wartable Scrum Summer 2020 |Jul 27, 2020 |19.0 |No |
+| [1277](https://conflictchamber.com/?event=1277) |Sobrevivimos! |Jul 19, 2020 |7.0 |No |
+| [1276](https://conflictchamber.com/?event=1276) |[NorCal Classic 2020: Wartable Edition](https://www.facebook.com/events/468812313617934) |Aug 8, 2020 |16.0 |No |
+| [1275](https://conflictchamber.com/?event=1275) |[CR WMH Online #2](https://www.facebook.com/events/205654807450673/) |Jul 25, 2020 |7.0 |No |
+| [1274](https://conflictchamber.com/?event=1274) |[CR WMH Online #1](https://www.facebook.com/events/586557945394233) |Jul 18, 2020 |3.0 |No |
+| [1273](https://conflictchamber.com/?event=1273) |[KAZUÁR55](http://warmahordes.hu/v/K_S05T07/) |Jul 25, 2020 |12.0 |No |
+| [1272](https://conflictchamber.com/?event=1272) |1 era Liga Transoceánica Hispanoparlantes |Jul 22, 2020 |26.0 |No |
 | [1271](https://conflictchamber.com/?event=1271) |Summertime Scramble |Jul 13, 2020 |12.0 |No |
 | [1270](https://conflictchamber.com/?event=1270) |Ontario Warmachine Ladder League on WarTable |Jul 11, 2020 |27.0 |No |
 | [1269](https://conflictchamber.com/?event=1269) |[Torneo Infernal Forge 11/07/220](https://www.facebook.com/events/726097691473162/) |Jul 12, 2020 |10.0 |No |
