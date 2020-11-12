@@ -2,7 +2,10 @@
 
 ## Last Updated: August 27th, 2020
 
- I am planning to update the lists about once a month.
+
+**This has become a legacy project. I have left Warmachine, so this will only be updated upon request. If you use this project regularly and need it updated, please get in touch, and I will either update it for you, or help you take over.**
+
+ ~~I am planning to update the lists about once a month.~~
 
 There are two lists available.
 
